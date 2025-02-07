@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+streamlit
+langchain
+chromadb
+ollama
+pydub
+opencv-python-headless
+pdfplumber
+transformers
+torch
+requests
+openai-whisper
